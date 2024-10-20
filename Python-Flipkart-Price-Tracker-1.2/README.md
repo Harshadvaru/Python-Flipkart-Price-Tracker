@@ -3,7 +3,6 @@ This is a Python Flask App that could track the price of Amazon products! It cou
 
 **Tracking**
 
-![Example Image](https://github.com/donaldzou/Python-Amazon-Price-Tracker/raw/master/templates/example.png)
 
 **Price Dropped Notification**
 
